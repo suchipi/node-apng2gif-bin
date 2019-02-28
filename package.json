@@ -1,9 +1,9 @@
 {
   "name": "apng2gif-bin",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "apng2gif binary for your platform",
   "main": "index.js",
-  "repository": "https://github.com/suchipi/node-apng2gif",
+  "repository": "https://github.com/suchipi/node-apng2gif-bin",
   "author": "Max Stepin",
   "license": "zlib",
   "keywords": ["apng2gif", "apng", "gif", "convert"]
